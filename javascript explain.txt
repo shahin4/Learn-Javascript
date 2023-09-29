@@ -1,0 +1,17 @@
+javascript web er matrivasa
+
+highly programming language
+javascript macine teke onk dure tkee fole easy hoi bujte
+
+javascript er mul name ecmascript
+europian computer manafacotring association
+
+
+var -use kora jabe na
+
+const
+
+const দারা কোনকিছু লেখা হলে সেইটা পূনরায় রি এসাইন করা যায়না
+
+const কিন্তু ভ্যালু টাকে constant করে না সে মেমোরির জায়গাটাকে constatn  করে তাই অই জায়গায় নতুন ভেলু এরে অব্জেক্টয় দেওয়া যায়না।
+কিন্তু এরে এলিমেন্ট এবং অবজেক্ট পরপার্টি পরিবররত্ন করা যায়। 
